@@ -1,6 +1,6 @@
-**AI-Powered Portfolio Optimization & Backtesting (Quantitative Finance Project)**
+#AI-Powered Portfolio Optimization & Backtesting (Quantitative Finance Project)
 
-📊 Description
+**📊 Description**
 
 This project implements an AI-driven portfolio optimization system that combines Modern Portfolio Theory (MPT) with machine learning and reinforcement learning concepts to build, optimize, and backtest dynamic investment portfolios.
 
